@@ -30,7 +30,8 @@ You'll be using a variety of Google Cloud offerings to achieve this including:
 1. Looker or Looker Studio
 
 ## Challenges
-
+- Challenge 0: Setup
+   - Hello World!
 - Challenge 1: Getting started
    - Get yourself ready to develop our FastFresh solution
 - Challenge 2: Replicating Oracle Data Using Datastream
