@@ -1,5 +1,23 @@
 {% include feature_row %}
 
+# gHacks has moved!
+The gHacks repository has moved to it's new home in the GoogleCloudPlatform organization.
+
+<br>
+
+## [Click here for our new location](https://github.com/GoogleCloudPlatform/cloud-hackathons)
+
+<br>
+This repository has been archived and make read-only on Mar 31, 2023.
+<br>
+<br>
+<br>
+
+---
+## The original README follows...
+---
+
+
 ## What are gHacks?
 
 gHacks are a set of challenge based hackathons that can be hosted in-person or virtually via Google Meet.
